@@ -1,0 +1,20 @@
+{
+  "name": "typescript-output-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "@adonisjs/lucid": "^21.1.0",
+    "luxon": "^3.4.4"
+  }
+}
